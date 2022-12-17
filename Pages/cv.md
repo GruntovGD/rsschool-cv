@@ -46,6 +46,6 @@ function nthFibo(n) {
   
   ---
   ## Languages:
-  * English - Intermediate (according to the online test at EFset Logo www.efset.org)
+  * English - Intermediate (according to the online test at ![EFsetLogo](/Assets/Images/EnglishLevel.PNG) www.efset.org)
   * Russian - Native
   * Belorussian - Native
